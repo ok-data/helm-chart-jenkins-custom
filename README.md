@@ -1,5 +1,7 @@
 # Jenkins Helm Chart (customized)
 
+## values.yaml
+
 `141` 번의 `serviceType` 을 NodePort로 수정하고 포트번호는`3200`
 
 ```yaml
